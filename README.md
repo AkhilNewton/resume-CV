@@ -5,7 +5,7 @@ A single-page, one-column resume for software developers. It uses the base LaTeX
 I used this template as managing a resume on Google Docs or Microsoft Word was hard and changing any formatting was too difficult since it had to be applied in multiple places. Most currently available templates either focus on two columns, or are multiple pages long. I personally found the two-column templates hard to focus while multiple-page resumes were just too long to be used in career fairs. This resume/CV is short as in 2 pages and contains enough details. I've also included the zip file to the LaTeX project so that it can be imported directly as edited. Thank you!
 
 ## Preview
-<img src="resume_preview.png" alt="drawing" width="800"/>
+<img src="resume_preview.png" alt="drawing" width="700" class="center"/>
 
 ## License
 Format by Deedy - One Page Two Column Resume but all the data is owned by Akhil M.
